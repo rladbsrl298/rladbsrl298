@@ -25,8 +25,9 @@
 
 ## 도구
 
-ChatGPT · Claude · Gemini · Claude Code · Notion
-Python · SQL · Next.js · React · FastAPI · Supabase · PostgreSQL
+**생성형 AI · 에이전트** — ChatGPT · Claude · Gemini · Claude Code · Notion
+
+**개발 · 데이터** — Python · SQL · Next.js · React · FastAPI · Supabase · PostgreSQL
 
 ## 연락
 
